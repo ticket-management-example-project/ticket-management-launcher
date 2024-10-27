@@ -1,9 +1,9 @@
+[submodule "client-gateway"]
+	path = client-gateway
+	url = https://github.com/ticket-management-example-project/client-gateway
+[submodule "ticket-microservice"]
+	path = ticket-microservice
+	url = https://github.com/ticket-management-example-project/ticket-microservice
 [submodule "chat-microservice"]
 	path = chat-microservice
 	url = https://github.com/ticket-management-example-project/chat-microservice
-[submodule "ticket-microservice"]
-path = ticket-microservice
-url = https://github.com/ticket-management-example-project/ticket-microservice
-[submodule "client-gateway"]
-  path = client-gateway
-  url = https://github.com/ticket-management-example-project/client-gateway
